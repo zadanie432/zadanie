@@ -1,0 +1,2 @@
+Poprawne: 0
+Niepoprawne: 1545
